@@ -140,7 +140,7 @@ Script ini akan membuat:
    - Pilih device: "Other (Custom name)"
    - Masukkan nama: "Cheaply Restaurant"
    - Klik "Generate"
-   - **COPY PASSWORD** (16 karakter, contoh: `wxsk hvcc jlem uuyo`)
+   - **COPY PASSWORD** (16 karakter, contoh: `xxxx cccc dddd eeee`)
 
 3. **Update File `.env`**
    ```env
@@ -148,7 +148,7 @@ Script ini akan membuat:
    MAIL_HOST=smtp.gmail.com
    MAIL_PORT=587
    MAIL_USERNAME=your_email@gmail.com
-   MAIL_PASSWORD="wxsk hvcc jlem uuyo"
+   MAIL_PASSWORD="xxxx cccc dddd eeee"
    MAIL_ENCRYPTION=tls
    MAIL_FROM_ADDRESS=your_email@gmail.com
    MAIL_FROM_NAME="Cheaply Restaurant"
